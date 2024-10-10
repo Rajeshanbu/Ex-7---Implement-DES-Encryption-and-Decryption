@@ -8,7 +8,9 @@ Design of the DES algorithm.
 ### Step 2:
 Implementation using C or Python code.
 ### Step 3:
-The DES algorithm takes a 64-bit block of plaintext and a 56-bit key to perform encryption through a series of transformations, including permutation, substitution, and XOR operations. The encryption process involves 16 rounds of these transformations. The decryption process reverses the steps to retrieve the original message.
+The DES algorithm takes a 64-bit block of plaintext and a 56-bit key to perform encryption through a series of transformations, including permutation, substitution, and XOR operations
+### Step 4:
+The encryption process involves 16 rounds of these transformations. The decryption process reverses the steps to retrieve the original message.
 ## PROGRAM:
 ```py
 #include <stdio.h>
